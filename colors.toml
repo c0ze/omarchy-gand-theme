@@ -1,0 +1,35 @@
+# Gand — Earth
+# gand.tr's signature "mid" theme: an aged manuscript read by firelight.
+# Bronze staff (gandr), patina sage, balbal stone grey on warm ink-brown.
+
+mode = "dark"
+
+accent = "#d6a06b"
+selection = "#514838"
+muted = "#6f6453"
+
+background = "#3a332a"
+dark_background = "#2e2820"
+darker_background = "#241f19"
+lighter_background = "#463e33"
+
+foreground = "#ebe2cf"
+dark_foreground = "#b0a48f"
+light_foreground = "#f2ebd9"
+bright_foreground = "#f7efdb"
+
+red = "#d8735f"
+yellow = "#d8b46e"
+orange = "#d6874b"
+green = "#8eb0a0"
+cyan = "#92a2af"
+blue = "#d6a06b"
+magenta = "#b294ab"
+brown = "#6b5237"
+
+bright_red = "#e59079"
+bright_yellow = "#ecd493"
+bright_green = "#aac9b9"
+bright_cyan = "#adbbc6"
+bright_blue = "#e8bd8f"
+bright_magenta = "#ccb2c4"
